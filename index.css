@@ -9,14 +9,11 @@ html {
 	scroll-behavior: smooth;
 }
 .shy-id{
-	width: 200px;
-	height: 200px;
+	width: 30vw;
+	height: 40vh;
 }
 main{
-	background-color: rgba(89,214,138,0.6);
-}
-section{
-	border-radius: 15px;
+	background-color: rgba(214,138,89,0.9);
 }
 p{
 	font-size: 1.1rem;
@@ -28,9 +25,8 @@ h1,h3{
 	width: 30px;
 	height: 30px;
 }
-#tools,#projects, #contact, #home, #landing{
-	background-color: rgba(214,138,89,0.9);
-	padding-top: 2rem;
+#tools, #projects, #contact, #home, #landing{
+	padding-top: 1rem;
 }
 #projects > p{
 	font-family: 'Roboto', sans-serif;
